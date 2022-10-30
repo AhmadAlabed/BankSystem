@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1667148638 source:c:\users\engahmad\desktop\firstproject\test\main.cpp
+	<iostream>
+	"Person.h"
+	"Client.h"
+	"Validation.h"
+	"Employee.h"
+	"Admin.h"
+	<fstream>
+	"Parser.h"
+	"FilesHelper.h"
+	"vector"
+	"FileManager.h"
+	"ClientManager.h"
+	"EmployeeManager.h"
+	"Screens.h"
+	"AdminManager.h"
+
+1667079599 c:\users\engahmad\desktop\firstproject\test\include\person.h
+	<iostream>
+	"Validation.h"
+
+1666456336 c:\users\engahmad\desktop\firstproject\test\include\validation.h
+	<iostream>
+
+1667079384 c:\users\engahmad\desktop\firstproject\test\include\client.h
+	<iostream>
+	"Validation.h"
+	"Person.h"
+	"vector"
+
+1667079402 c:\users\engahmad\desktop\firstproject\test\include\employee.h
+	"Client.h"
+	"Person.h"
+	"vector"
+
+1666895925 c:\users\engahmad\desktop\firstproject\test\include\admin.h
+	"Employee.h"
+
+1667074161 c:\users\engahmad\desktop\firstproject\test\include\filemanager.h
+	"DataSourceInterface.h"
+	"FilesHelper.h"
+	"Client.h"
+
+1666891708 c:\users\engahmad\desktop\firstproject\test\include\datasourceinterface.h
+	"Admin.h"
+	"Client.h"
+	"Employee.h"
+
+1666456601 c:\users\engahmad\desktop\firstproject\test\include\parser.h
+	<sstream>
+	"Admin.h"
+
+1667076288 c:\users\engahmad\desktop\firstproject\test\include\fileshelper.h
+	<fstream>
+	<sstream>
+	"Parser.h"
+	"PublicVariables.h"
+
+1667147308 c:\users\engahmad\desktop\firstproject\test\include\screens.h
+	"Client.h"
+	"Employee.h"
+	"Admin.h"
+	"ClientManager.h"
+	"FilesHelper.h"
+	"AdminManager.h"
+
+1667148649 c:\users\engahmad\desktop\firstproject\test\include\clientmanager.h
+	"Person.h"
+	<iostream>
+	<string>
+	"Admin.h"
+	"Parser.h"
+	"Employee.h"
+	"Validation.h"
+	"Client.h"
+
+1667143220 c:\users\engahmad\desktop\firstproject\test\include\adminmanager.h
+	<fstream>
+	"Client.h"
+	"Employee.h"
+	"Admin.h"
+	"Parser.h"
+	"DataSourceInterface.h"
+	"FilesHelper.h"
+	"EmployeeManager.h"
+
+1666893056 c:\users\engahmad\desktop\firstproject\test\include\publicvariables.h
+	"vector"
+	"Client.h"
+	"Employee.h"
+	"Admin.h"
+
+1667081200 c:\users\engahmad\desktop\firstproject\test\include\employeemanager.h
+	"FileManager.h"
+	"Employee.h"
+	"ClientManager.h"
+
